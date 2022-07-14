@@ -1,0 +1,14 @@
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\bin\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.deps.json
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\bin\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.runtimeconfig.json
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\bin\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.runtimeconfig.dev.json
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\bin\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.dll
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.csproj.CoreCompileInputs.cache
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.RazorAssemblyInfo.cache
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.RazorAssemblyInfo.cs
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.AssemblyInfoInputs.cache
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.AssemblyInfo.cs
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.RazorTargetAssemblyInfo.cache
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\bin\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.pdb
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.csprojAssemblyReference.cache
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.dll
+D:\QBS-Application\QBS-CORE-WEBAPI\QBS-CORE-WEBAPI\obj\Debug\netcoreapp2.2\QBS-CORE-WEBAPI.pdb
